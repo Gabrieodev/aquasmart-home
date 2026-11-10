@@ -2,8 +2,6 @@
 
 A residential water-consumption monitoring dashboard. It lets homeowners track usage, spot possible waste or leaks, and follow their saving goals. This is a front-end prototype: all data is simulated locally and there is no backend.
 
-**Live demo:** https://aquasmart-home-insights.lovable.app
-
 ## Features
 
 - **Overview** – KPI cards (today, month, daily average, monthly savings) with period selector (Today / 7 days / 30 days) and a simulated live sensor reading
